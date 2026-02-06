@@ -58,7 +58,7 @@ KPIs were designed to:
 - Isolated non-urgent escalations driving unnecessary costs
 
 Example Insight:
-Improving callback compliance by __15%__ reduced average wait times by __12 minutes per call__, equivalent to __~£120k annual savings per trust__.
+<br/>Improving callback compliance by __15%__ reduced average wait times by __12 minutes per call__, equivalent to __~£120k annual savings per trust__.
 
 ### Management Reporting & Decision Support
 - Delivered reconciled __KPI packs__ used by senior operations teams to:
@@ -83,31 +83,26 @@ These models __inform decisions__ but do not replace operational controls.
 - Monthly and ad-hoc reporting packs for management
 - Clear visualisation of SLA breaches, cost trends, and demand peaks
 
-Dashboard preview:
-results/live_dashboard_preview.ipynb
+__Dashboard preview:__
+<br/>[results/live_dashboard_preview.ipynb](https://nhsplotlydash-dashboard.onrender.com/)
 
-Tools & Systems
+### Tools & Systems
+- __Data Processing:__ Python (pandas, NumPy)
+- __Reporting & Analysis__: Jupyter, Matplotlib
+- __Version Control:__ Git
+- __Modelling (supporting):__ statsmodels, PuLP
 
-Data Processing: Python (pandas, NumPy)
-
-Reporting & Analysis: Jupyter, Matplotlib
-
-Version Control: Git
-
-Modelling (supporting): statsmodels, PuLP
-
-Reproducibility
+### Reproducibility
+```python
 git clone https://github.com/ackben0226/nhs-wait-times.git
 pip install -r requirements.txt
 jupyter notebook Optimizing_NHS_Patient_Wait_Times_Analysis.ipynb
+```
 
-Data Source
-
-NHS Open Data Portal
-
-Coverage: Apr 2015 – Mar 2016
-
-Licence: CC BY 4.0
+### Data Source
+- NHS Open Data Portal
+- Coverage: Apr 2015 – Mar 2016
+- Licence: CC BY 4.0
 
 Positioning Note (intentional)
 
