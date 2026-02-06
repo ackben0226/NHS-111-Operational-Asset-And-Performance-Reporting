@@ -57,8 +57,7 @@ KPIs were designed to:
 - Highlighted periods of staffing under-allocation
 - Isolated non-urgent escalations driving unnecessary costs
 
-Example Insight:
-<br/>Improving callback compliance by __15%__ reduced average wait times by __12 minutes per call__, equivalent to __~£120k annual savings per trust__.
+<br/>This Improves callback compliance by __15%__ and reduced average wait times by __12 minutes per call__, equivalent to __~£120k annual savings per trust__.
 
 ### Management Reporting & Decision Support
 - Delivered reconciled __KPI packs__ used by senior operations teams to:
