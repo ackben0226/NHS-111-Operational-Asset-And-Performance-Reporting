@@ -100,20 +100,13 @@ jupyter notebook Optimizing_NHS_Patient_Wait_Times_Analysis.ipynb
 ```
 
 ### Data Source
-- NHS Open Data Portal
+- [NHS Open Data Portal (Apr 2015–Mar 2016, CC BY 4.0)](https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2015/05/NHS-111-Monthly-Extraction-Apr15-to-Mar16-web-file-revised-11.08.16.csv)
 - Coverage: Apr 2015 – Mar 2016
 - Licence: CC BY 4.0
 
-Positioning Note (intentional)
-
-This project demonstrates:
-
-High-volume asset and operational data maintenance
-
-Exception reporting and reconciliations
-
-KPI reporting for SLA and revenue-critical decisions
-
-Conservative, auditable impact quantification
-
-Advanced analytics are included as support, not as the headline.
+### Key Competencies Demonstrated
+- Maintained high-volume operational and asset datasets supporting SLA compliance and billing accuracy
+- Performed exception reporting and reconciliations to ensure reliable, auditable records
+- Produced KPI reporting that informed revenue-critical and operational decisions
+- Quantified impact conservatively with clear metrics (cost savings, reduced errors, SLA adherence)
+- Supported decision-making with advanced analytics, used only to enhance operational insights
